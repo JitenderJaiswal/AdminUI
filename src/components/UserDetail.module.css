@@ -1,0 +1,47 @@
+.parent {
+  display: flex;
+  height: 40px;
+  width: 1250px;
+  border-bottom: 1px solid grey;
+}
+.inputCheckboxParent {
+  width: 250px;
+  text-align: Left;
+  padding-top: 8px;
+  margin-left: 10px;
+}
+.inputTextParent {
+  width: 250px;
+  padding-top: 8px;
+  font-size: 15px;
+  text-align: Left;
+}
+.action {
+  width: 250px;
+  padding-top: 8px;
+  font-size: 15px;
+  display: flex;
+  text-align: Left;
+}
+.buttonParent {
+  background: #6b5881;
+  border-radius: 15px;
+  margin-bottom: 5px;
+}
+.button {
+  border: none;
+  background: none;
+  color: white;
+  width: 60px;
+}
+.editButtonParent {
+  background: #b50020;
+  border-radius: 15px;
+  height: 25px;
+}
+.deleteButtonParent {
+  margin-left: 10px;
+  background: #b50020;
+  border-radius: 15px;
+  height: 25px;
+}

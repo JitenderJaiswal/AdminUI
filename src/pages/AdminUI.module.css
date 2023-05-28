@@ -1,0 +1,25 @@
+.parent {
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+}
+.inputCheckBoxParent {
+  width: 250px;
+  text-align: Left;
+  padding-top: 8px;
+  margin-left: 10px;
+}
+.text {
+  width: 250px;
+  padding-top: 4px;
+  font-size: 20px;
+  text-align: Left;
+  font-weight: 500;
+}
+.tableParent {
+  display: flex;
+  border-bottom: 1px solid grey;
+  height: 40px;
+  width: 1250px;
+  background: "#f0d7fd";
+}
